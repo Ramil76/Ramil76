@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! Blue Teamer, Aspiring SOC Analyst, <br/> <a href="https://www.linkedin.com/in/ryanramil/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Ryan! Blue Teamer, SOC Analyst, <br/> <a href="https://www.linkedin.com/in/ryanramil/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
